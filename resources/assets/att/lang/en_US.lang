@@ -1,0 +1,29 @@
+item.red_diamond.name=Red Diamond
+item.roasted_lapis.name=Roasted Lapis Lazuli
+item.emp_gun.name=EMP Gun
+
+item.red_pickaxe.name=Red Pickaxe
+item.red_axe.name=Red Axe
+item.red_sword.name=Red Sword
+
+
+item.mundane_catalyst.name=Mundane Catalyst
+item.strengthened_catalyst.name=Strengthened Catalyst
+item.greater_catalyst.name=Greater Catalyst
+
+
+item.mundane_stone.name=Mundane Stone
+item.uncharged_lesser_stone.name=Lesser Stone - Uncharged
+item.uncharged_lesser_stone_25.name=Lesser Stone - 25% Charged
+item.uncharged_lesser_stone_50.name=Lesser Stone - 50% Charged
+item.uncharged_lesser_stone_25.name=Lesser Stone - 75% Charged
+item.lesser_stone.name=Lesser Stone - Charged
+item.greater_stone.name=Greater Stone
+
+tile.red_diamond_block.name=Red Diamond Block
+tile.dice.name=Dice
+
+entity.simple_power_cube.name=Simple Power Cube
+
+key.hello=Speak hello to yourself
+key.categories.att=All The Things
